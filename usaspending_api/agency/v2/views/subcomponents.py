@@ -8,7 +8,7 @@ from usaspending_api.common.cache_decorator import cache_response
 from usaspending_api.common.helpers.generic_helper import get_pagination_metadata
 from usaspending_api.common.helpers.orm_helpers import ConcatAll
 from usaspending_api.financial_activities.models import FinancialAccountsByProgramActivityObjectClass
-from usaspending_api.references.models import GTASSF133Balances, BureauTitleLookup
+from usaspending_api.references.models import BureauTitleLookup
 
 
 class SubcomponentList(PaginationMixin, AgencyBase):
