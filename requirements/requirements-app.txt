@@ -9,7 +9,7 @@ dj-database-url==0.5.0
 django-cors-headers==2.5.3
 django-debug-toolbar==3.2
 django-extensions==2.2.5
-django-filter==0.14.0
+django-filter==2.4.0
 django-partial-index==0.6.0
 django-simple-history==2.7.3
 django-spaghetti-and-meatballs==0.4.0
